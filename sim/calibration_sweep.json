@@ -1,0 +1,216 @@
+{
+  "incumbent": {
+    "_GAMMA": 0.05,
+    "_M0": 0.01,
+    "_C_U": 1.0,
+    "_C_T": 1.0,
+    "_TAU": 30.0,
+    "_S": 2048,
+    "_BOOTSTRAP_B": 32,
+    "_RESERVE_FRACTION": 0.2,
+    "_POSITION_CAP_FRACTION": 0.15,
+    "_B_MIN": 0.0,
+    "_U_REF": 0.1,
+    "_N_MIN": 10,
+    "_KAPPA_K": 0.3,
+    "_LAMBDA_MIN": 0.3,
+    "_T_MAX": 0.1,
+    "_S_FIXED": 0.05,
+    "_N0_CORR": 50.0
+  },
+  "chosen": {
+    "_GAMMA": 0.05,
+    "_M0": 0.01,
+    "_C_U": 1.0,
+    "_C_T": 1.0,
+    "_TAU": 30.0,
+    "_S": 2048,
+    "_BOOTSTRAP_B": 32,
+    "_RESERVE_FRACTION": 0.2,
+    "_POSITION_CAP_FRACTION": 0.15,
+    "_B_MIN": 0.0,
+    "_U_REF": 0.1,
+    "_N_MIN": 10,
+    "_KAPPA_K": 0.3,
+    "_LAMBDA_MIN": 0.3,
+    "_T_MAX": 0.1,
+    "_S_FIXED": 0.05,
+    "_N0_CORR": 50.0
+  },
+  "rows": [
+    {
+      "config": {
+        "_GAMMA": 0.05,
+        "_M0": 0.01,
+        "_C_U": 1.0,
+        "_C_T": 1.0,
+        "_TAU": 30.0,
+        "_S": 2048,
+        "_BOOTSTRAP_B": 32,
+        "_RESERVE_FRACTION": 0.2,
+        "_POSITION_CAP_FRACTION": 0.15,
+        "_B_MIN": 0.0,
+        "_U_REF": 0.1,
+        "_N_MIN": 10,
+        "_KAPPA_K": 0.3,
+        "_LAMBDA_MIN": 0.3,
+        "_T_MAX": 0.1,
+        "_S_FIXED": 0.05,
+        "_N0_CORR": 50.0
+      },
+      "result": {
+        "mean_score": 9.701666666666666,
+        "p5_score": 8.7625,
+        "bankruptcy_rate": 0.0,
+        "mean_fill_rate": 0.04169086356911675
+      },
+      "accepted": true,
+      "role": "incumbent"
+    },
+    {
+      "config": {
+        "_GAMMA": 0.02881,
+        "_M0": 0.02542,
+        "_C_U": 1.59842,
+        "_C_T": 0.73362,
+        "_TAU": 34.77175,
+        "_S": 1024,
+        "_BOOTSTRAP_B": 32,
+        "_RESERVE_FRACTION": 0.24548,
+        "_POSITION_CAP_FRACTION": 0.21408,
+        "_B_MIN": 0.00469,
+        "_U_REF": 0.03765,
+        "_N_MIN": 10,
+        "_KAPPA_K": 0.48949,
+        "_LAMBDA_MIN": 0.48114,
+        "_T_MAX": 0.03046,
+        "_S_FIXED": 0.05563,
+        "_N0_CORR": 76.3309
+      },
+      "result": {
+        "mean_score": 9.766666666666666,
+        "p5_score": 8.86,
+        "bankruptcy_rate": 0.0,
+        "mean_fill_rate": 0.041505059035486125
+      },
+      "accepted": false,
+      "role": "candidate"
+    },
+    {
+      "config": {
+        "_GAMMA": 0.04203,
+        "_M0": 0.02836,
+        "_C_U": 1.83243,
+        "_C_T": 0.352,
+        "_TAU": 11.27229,
+        "_S": 2048,
+        "_BOOTSTRAP_B": 16,
+        "_RESERVE_FRACTION": 0.33174,
+        "_POSITION_CAP_FRACTION": 0.1448,
+        "_B_MIN": 0.01083,
+        "_U_REF": 0.14397,
+        "_N_MIN": 3,
+        "_KAPPA_K": 0.57487,
+        "_LAMBDA_MIN": 0.48185,
+        "_T_MAX": 0.23662,
+        "_S_FIXED": 0.06423,
+        "_N0_CORR": 44.38454
+      },
+      "result": {
+        "mean_score": 9.9,
+        "p5_score": 9.459999999999999,
+        "bankruptcy_rate": 0.0,
+        "mean_fill_rate": 0.04130352739501857
+      },
+      "accepted": false,
+      "role": "candidate"
+    },
+    {
+      "config": {
+        "_GAMMA": 0.10476,
+        "_M0": 0.02283,
+        "_C_U": 1.91882,
+        "_C_T": 1.87506,
+        "_TAU": 30.809,
+        "_S": 2048,
+        "_BOOTSTRAP_B": 48,
+        "_RESERVE_FRACTION": 0.08,
+        "_POSITION_CAP_FRACTION": 0.18699,
+        "_B_MIN": 0.03618,
+        "_U_REF": 0.11003,
+        "_N_MIN": 25,
+        "_KAPPA_K": 0.39943,
+        "_LAMBDA_MIN": 0.46074,
+        "_T_MAX": 0.18646,
+        "_S_FIXED": 0.09492,
+        "_N0_CORR": 50.87909
+      },
+      "result": {
+        "mean_score": 9.9,
+        "p5_score": 9.459999999999999,
+        "bankruptcy_rate": 0.0,
+        "mean_fill_rate": 0.04130352739501857
+      },
+      "accepted": false,
+      "role": "candidate"
+    },
+    {
+      "config": {
+        "_GAMMA": 0.1262,
+        "_M0": 0.02011,
+        "_C_U": 0.81573,
+        "_C_T": 1.29889,
+        "_TAU": 54.12395,
+        "_S": 2048,
+        "_BOOTSTRAP_B": 32,
+        "_RESERVE_FRACTION": 0.2267,
+        "_POSITION_CAP_FRACTION": 0.08587,
+        "_B_MIN": 0.01214,
+        "_U_REF": 0.2453,
+        "_N_MIN": 10,
+        "_KAPPA_K": 0.69827,
+        "_LAMBDA_MIN": 0.28356,
+        "_T_MAX": 0.2242,
+        "_S_FIXED": 0.08207,
+        "_N0_CORR": 77.74831
+      },
+      "result": {
+        "mean_score": 9.701666666666666,
+        "p5_score": 8.7625,
+        "bankruptcy_rate": 0.0,
+        "mean_fill_rate": 0.04169086356911675
+      },
+      "accepted": false,
+      "role": "candidate"
+    },
+    {
+      "config": {
+        "_GAMMA": 0.02211,
+        "_M0": 0.01991,
+        "_C_U": 0.48348,
+        "_C_T": 0.57829,
+        "_TAU": 51.99758,
+        "_S": 1024,
+        "_BOOTSTRAP_B": 32,
+        "_RESERVE_FRACTION": 0.26983,
+        "_POSITION_CAP_FRACTION": 0.15978,
+        "_B_MIN": 0.01543,
+        "_U_REF": 0.25904,
+        "_N_MIN": 25,
+        "_KAPPA_K": 0.63387,
+        "_LAMBDA_MIN": 0.2968,
+        "_T_MAX": 0.06748,
+        "_S_FIXED": 0.06018,
+        "_N0_CORR": 98.47651
+      },
+      "result": {
+        "mean_score": 9.058333333333332,
+        "p5_score": 8.022499999999999,
+        "bankruptcy_rate": 0.0,
+        "mean_fill_rate": 0.042862732507831854
+      },
+      "accepted": false,
+      "role": "candidate"
+    }
+  ]
+}

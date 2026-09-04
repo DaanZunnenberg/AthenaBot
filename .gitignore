@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+.vscode/
+.idea/
+
+# Local working notes/config -- kept locally, not pushed to GitHub
+CLAUDE.md
+.claude/
+
+# Competition Discord log -- kept locally, not pushed to GitHub
+DISCORD.md
+
+# kept locally only, not part of the public solution repo
+archive/debug-snapshots/
+archive/experiment-archive/
