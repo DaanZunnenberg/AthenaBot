@@ -1,6 +1,6 @@
 # AthenaBot
 
-This repo contains only my own submission for this challenge. No code, data, or text from the
+This repo contains only my own submission for the Akuna Capital Digital Trading Challange of 2026. No code, data, or text from the
 actual HackerRank challenge itself is included here (the shared interface types the challenge
 provides live in a separate private submodule, `src/`, not published in this repo). It's shared
 purely so other participants can compare their own method against mine.
