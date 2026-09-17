@@ -1,6 +1,6 @@
 # Missing Deficiencies in the Binary-Option Market-Making Model
 
-The following report identifies distinct failure modes in binary-option market making that are absent from your existing list. While your list covers fundamental concepts such as "adverse selection," "hedging difficulties," "model risk near expiry," and "unstable volatility," several precise mathematical, microstructure, and operational mechanisms remain uncaptured.
+This note lists failure modes in binary-option market making not covered elsewhere in this repo. The existing analysis covers "adverse selection," "hedging difficulties," "model risk near expiry," and "unstable volatility" at a conceptual level; the items below are more specific mathematical, microstructure, and operational mechanisms that those categories don't capture.
 
 ---
 
