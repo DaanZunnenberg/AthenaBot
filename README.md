@@ -179,3 +179,5 @@ everything in this repo except `src/`'s contents itself.
 ---
 
 _Last reviewed: 2026-08-31._
+
+<!-- Last reviewed: 2026-11-03 -->
