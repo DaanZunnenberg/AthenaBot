@@ -1024,3 +1024,4 @@ class MarketMaker:
         if self._flow_favorable_ema <= 0.0:
             return 0.0
         return min(self._flow_favorable_ema, self._FLOW_REGIME_TIGHTEN_CAP)
+# See README for backtest usage notes.
