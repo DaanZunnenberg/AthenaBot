@@ -494,3 +494,4 @@ if __name__ == "__main__":
     out_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "baseline.csv")
     write_csv(batch, out_path)
     print(f"wrote {out_path}")
+# Harness coordinates simulation runs; see sim/test_shrinkage.py for coverage.
