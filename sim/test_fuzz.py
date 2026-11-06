@@ -179,3 +179,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+# Fuzz tests catch edge cases in the pricer.

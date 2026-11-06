@@ -137,3 +137,4 @@ class MixedCounterparty:
 
     def make_fok_order(self, params, values, option, counterparty_id):
         return self._pick().make_fok_order(params, values, option, counterparty_id)
+# Tracks counterparty exposure during simulation.
