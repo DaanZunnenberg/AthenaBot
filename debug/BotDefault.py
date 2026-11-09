@@ -78,4 +78,4 @@ class MarketMaker:
 
     def warm_up(self, market_history: MarketHistory) -> None:
         # TODO: consume the burn-in history (e.g. estimate the market parameters).
-        ...
+        ...# Default bot configuration used for debugging.
