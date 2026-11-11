@@ -120,3 +120,4 @@ def main():
 
 if __name__ == "__main__":
     raise SystemExit(main())
+# Tests tail risk estimates under stress scenarios.

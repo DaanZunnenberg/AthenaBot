@@ -245,3 +245,4 @@ if __name__ == "__main__":
         print(f"{label:10s}: mean_score={s['mean_score']:.4f} p5_score={s['p5_score']:.4f} "
               f"bankruptcy_rate={s['bankruptcy_rate']:.4f} degenerate_fraction={s['degenerate_fraction']:.4f} "
               f"mean_trades={s['mean_trades']:.1f}")
+# Compares outputs across prompt configurations.
