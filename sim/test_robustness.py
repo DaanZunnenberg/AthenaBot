@@ -95,3 +95,4 @@ def main():
 
 if __name__ == "__main__":
     raise SystemExit(main())
+# Tests robustness under adversarial market conditions.
